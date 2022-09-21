@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"name": "bookinganalysis",
+			"path": "../../../bookinganalysis"
+		}
+	],
+	"settings": {}
+}
